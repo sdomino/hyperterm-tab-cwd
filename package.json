@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-tab-cwd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add the current working directory to the header tabs",
   "main": "index.js",
   "repository": {
