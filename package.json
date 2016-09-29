@@ -1,0 +1,13 @@
+{
+  "name": "hyperterm-tab-cwd",
+  "version": "0.0.1",
+  "description": "Add the current working directory to the header tabs",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "tabs",
+    "cwd"
+  ],
+  "author": "Steve Domino <sdomino@pagodabox.io> (https://github.com/sdomino)",
+  "license": "MIT"
+}
