@@ -3,11 +3,19 @@
   "version": "0.0.1",
   "description": "Add the current working directory to the header tabs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:sdomino/hyperterm-tab-cwd.git"
+  },
   "keywords": [
     "hyperterm",
     "tabs",
     "cwd"
   ],
   "author": "Steve Domino <sdomino@pagodabox.io> (https://github.com/sdomino)",
-  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/sdomino/hyperterm-tab-cwd/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sdomino/hyperterm-tab-cwd"
 }
